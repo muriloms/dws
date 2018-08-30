@@ -1,1 +1,11 @@
 # Guia do Cientista de Dados
+
+## Antes de começar...
+
+- [O que é um Cientista de Dados?](https://www.sas.com/pt_br/insights/analytics/cientistas-de-dados.html) (SAS)
+- [As 10 habilidades de um Cientista de Dados](http://datascienceacademy.com.br/blog/cientista-de-dados-por-onde-comecar-em-8-passos/) (Ciência e Dados)
+- [Cientista de Dados – Por onde começar em 8 passos](http://datascienceacademy.com.br/blog/cientista-de-dados-por-onde-comecar-em-8-passos/)  (Data Science Academy)
+- [Qual a diferença entre o Analista de BI e o Cientista de Dados?](http://datascienceacademy.com.br/blog/qual-a-diferenca-entre-o-analista-de-bi-e-o-cientista-de-dados/) (Data Science Academy)
+- [7 Formas de pensar como um Cientista de Dados](https://www.profissionaisti.com.br/2018/08/7-formas-de-pensar-como-um-cientista-de-dados/) (Profissionais TI)
+
+## Estrutura
