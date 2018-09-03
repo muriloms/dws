@@ -1,0 +1,21 @@
+# Banco de Dados Brasileiros
+
+### Socioeconômicos
+
+  - [Ipeadata](http://www.ipeadata.gov.br/)
+
+  - [IBGE](https://ces.ibge.gov.br/base-de-dados/links-base-de-dados.html)
+
+  - [Portal Brasileiro de Dados Abertos](http://dados.gov.br/)
+
+  - [DataViva](http://www.dataviva.info/pt/)
+
+### Mercado Financeiro
+- [BM&F Bovespa – [B]3 (cotações)](http://www.bmfbovespa.com.br/pt_br/servicos/market-data/cotacoes/)
+
+- [BM&F Bovespa – [B]3 (derivativos)](http://www2.bmf.com.br/Mais/Index.html?Idioma=pt-br)
+
+### Agropecuária
+- [AGROSTAT (comércio exterior)](http://indicadores.agricultura.gov.br/agrostat/index.htm)
+
+- [Cepea/Esalq-USP (preços físicos)](https://www.cepea.esalq.usp.br/br/consultas-ao-banco-de-dados-do-site.aspx)
