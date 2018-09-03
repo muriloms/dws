@@ -1,0 +1,44 @@
+### Diversos
+- [Kaggle](https://www.kaggle.com/datasets)
+
+- [GepMinder](https://www.gapminder.org/data/)
+
+- [ETH zurich (pacotes R)](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/)
+
+- [Vincent Arel Bundock](GitHub) (https://vincentarelbundock.github.io/Rdatasets/datasets.html)
+
+- [Rob J Hyndman (pacotes R)](https://robjhyndman.com/software/)
+
+- [Dados do Uber (GitHub)](https://github.com/fivethirtyeight/uber-tlc-foil-response)
+
+- [Governo Americano](https://www.data.gov/)
+
+- [Data.World](https://data.world/)
+
+- [Microsoft Research Open Source](https://msropendata.com/)
+
+### Financeiro
+- [Quantmod (pacote R)](http://www.quantmod.com/)
+
+- [Yahoo Finance](https://finance.yahoo.com/)
+
+### Organizados conforme OSDSM
+#### Machine learning
+
+- [UCI Machine Learning Dataset Repository](https://archive.ics.uci.edu/ml/datasets.html)
+
+- [Machine Learning Dataset Repository](http://mldata.org/)
+
+#### Deep Learning
+
+- [Deep Learning Datasets](http://deeplearning.net/datasets/)
+
+#### Dados Limpos para amostra
+
+- [Scikit-learn sample datasets](http://scikit-learn.org/stable/datasets/index.html)
+
+- [Statsmodels datasets](http://statsmodels.sourceforge.net/devel/datasets/index.html)
+
+#### Network
+
+- [Stanford Network Analysis Project](https://snap.stanford.edu/)
