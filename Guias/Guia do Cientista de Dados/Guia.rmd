@@ -81,3 +81,45 @@ Em cada tópico são listados os materiais (videos, tutoriais, apostilas, pdf) c
   
 ## Banco de dados
   - [Organizados no Github da DwS](https://github.com/respingo/dws/tree/master/Banco%20de%20Dados)
+  
+## Livros
+- [Disponíveis na web](https://github.com/respingo/books)
+- [Livros Data Science](http://datawithstory.com/livros-ciencia-de-dados/)
+
+## Explorando a Web
+### Para dúvidas
+- [Stack Overflow](https://pt.stackoverflow.com/)
+
+### Blogs
+- [Data Science Academy – Blog](http://datascienceacademy.com.br/blog/)
+- [Curso R – Blog](http://curso-r.com/blog/)
+- [Minerando Dados](http://minerandodados.com.br/)
+- [Paulo Vasconcellos](https://paulovasconcellos.com.br/)
+- [KDnuggets ](https://www.kdnuggets.com/)
+- [Data Camp – Blog](https://www.datacamp.com/community/blog)
+- [Data Science Central](https://www.datasciencecentral.com/)
+
+### Competições e Comunidade
+- [Kaggle](https://www.kaggle.com/competitions)
+
+### Canais do Youtube
+- [Zurubabel](https://www.youtube.com/user/Zurubabel)
+- [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo)
+- [Analytics Mantra](https://www.youtube.com/channel/UCZaKowOEYNSHO3eZHSbJzJw/featured)
+- [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg)
+
+### PostCast
+- [Pizza de Dados](http://pizzadedados.com/)
+- [Hipsters Ponto Tech](http://hipsters.tech/)
+- [IBM Analytics Insights](https://www.acast.com/ibmanalyticsinsightspodcasts)
+
+### Grupos do Facebook
+- [Data Science Brasil](https://www.facebook.com/groups/DataScienceMachineLearningBR/?ref=group_browse_new)
+- [Big Data Brasil I](https://www.facebook.com/groups/BigDataBrasil1/?ref=group_browse_new)
+- [Data Mining / Machine Learning / Artificial Intelligence](https://www.facebook.com/groups/machinelearningforum/?ref=group_browse_new)
+- [R Brasil – Programadores](https://www.facebook.com/groups/1410023525939155/?ref=group_browse_new)
+- [Python Brasil – Programadores](https://www.facebook.com/groups/python.brasil/?ref=group_browse_new)
+
+
+# Don't Panic e Bons Estudos
+
