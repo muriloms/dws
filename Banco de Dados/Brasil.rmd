@@ -19,3 +19,22 @@
 - [AGROSTAT (comércio exterior)](http://indicadores.agricultura.gov.br/agrostat/index.htm)
 
 - [Cepea/Esalq-USP (preços físicos)](https://www.cepea.esalq.usp.br/br/consultas-ao-banco-de-dados-do-site.aspx)
+
+### Georeferenciais
+- [Diretoria do Serviços Geográfico DSG Normas, Padrões e Especificações Técnicas do Sistema Cartográfico Nacional (SCN) para a INDE](http://www.geoportal.eb.mil.br/index.php/inde2)
+
+- [Infraestrutura Nacional de Dados Espaciais - INDE](http://www.inde.gov.br/)
+
+- [IBGE geociências](https://downloads.ibge.gov.br/downloads_geociencias.htm)
+
+- [IPEA Geo](http://www.ipea.gov.br/ipeageo/)
+
+- [Ministério do Meio Ambiente](http://dados.mma.gov.br/)
+
+- [Atlas do Desenvolvimento Humano - IDHM - PNUD](http://www.atlasbrasil.org.br/2013/)
+
+- [Atlas da Vulnerabilidade Social](http://ivs.ipea.gov.br/index.php/pt/)
+
+- [Labgis UERJ](https://www.labgis.uerj.br/fontes_dados.php)
+
+- [Open Street maps](https://www.openstreetmap.org/#map=4/-15.13/-53.19)
