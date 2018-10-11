@@ -5,7 +5,7 @@
 
 - [ETH zurich (pacotes R)](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/)
 
-- [Vincent Arel Bundock](GitHub) (https://vincentarelbundock.github.io/Rdatasets/datasets.html)
+- [Vincent Arel Bundock](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
 
 - [Rob J Hyndman (pacotes R)](https://robjhyndman.com/software/)
 
@@ -16,6 +16,8 @@
 - [Data.World](https://data.world/)
 
 - [Microsoft Research Open Source](https://msropendata.com/)
+
+- [The Battle Deaths Dataset](https://www.prio.org/Data/Armed-Conflict/Battle-Deaths/The-Battle-Deaths-Dataset-version-30/)
 
 ### Financeiro
 - [Quantmod (pacote R)](http://www.quantmod.com/)
