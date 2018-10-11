@@ -19,6 +19,9 @@
 
 - [The Battle Deaths Dataset](https://www.prio.org/Data/Armed-Conflict/Battle-Deaths/The-Battle-Deaths-Dataset-version-30/)
 
+- [Principles of Econometrics](http://www.principlesofeconometrics.com/sas/) 
+(Data of the book)
+
 ### Financeiro
 - [Quantmod (pacote R)](http://www.quantmod.com/)
 
