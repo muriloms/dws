@@ -1,2 +1,7 @@
 # Banco de Dados Astronômicos
   - [Center for Astrostatistics - PennState](http://astrostatistics.psu.edu/datasets/index.html)
+
+  - [Gravitational Wave Open Science Center](https://www.gw-openscience.org/events/GW150914/)
+  
+  
+  ([Códio em python para análise dos dados](https://www.gw-openscience.org/s/events/GW150914/GW150914_tutorial.html))
